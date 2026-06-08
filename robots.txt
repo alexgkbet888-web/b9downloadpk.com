@@ -1,0 +1,6 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://b9downloadpk.com/sitemap.xml
+Sitemap: https://b9downloadpk.com/feed.xml
+Host: https://b9downloadpk.com
+
