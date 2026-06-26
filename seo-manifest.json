@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "b9downloadpk.com",
+  "brand": "B9 Pakistan",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "P1",
+  "owner": "core-team",
+  "repoUrl": "https://github.com/alexgkbet888-web/b9downloadpk.com",
+  "deployUrl": "https://b9downloadpk.com/",
+  "siteType": "download",
+  "positioning": "B9 app download, APK install and Android update guide for Pakistan users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "B9 download",
+    "B9 app download",
+    "B9 APK download",
+    "B9game download Pakistan"
+  ],
+  "secondaryKeywords": [
+    "B9game APK",
+    "B9game latest version",
+    "B9game Android APK",
+    "B9game app not installing"
+  ],
+  "competitors": [
+    "https://b9game.ltd/download/",
+    "https://b9gameapp.com/",
+    "https://b9game.net/"
+  ],
+  "technical": {
+    "sitemapUrl": "https://b9downloadpk.com/sitemap.xml",
+    "robotsUrl": "https://b9downloadpk.com/robots.txt",
+    "feedUrl": "https://b9downloadpk.com/feed.xml",
+    "canonicalRoot": "https://b9downloadpk.com/",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:b9downloadpk.com",
+    "connected": true
+  },
+  "contentPlan": {
+    "homepageAngle": "Download and APK install intent",
+    "clusters": ["download", "apk", "android", "latest-version", "install-errors"],
+    "weeklyUpdateTarget": 3
+  },
+  "lastUpdated": "2026-06-27"
+}
