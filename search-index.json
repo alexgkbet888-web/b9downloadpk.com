@@ -1,720 +1,723 @@
-﻿[
+[
     {
-        "value":  [
-                      {
-                          "title":  "About b9downloadpk.com | B9 Pakistan Guide Site",
-                          "url":  "/about/",
-                          "description":  "b9downloadpk.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 APK Android 14 Pakistan | Install Permission and Browser Guide",
-                          "url":  "/android-14-install/",
-                          "description":  "B9 APK Android 14 Pakistan guide for install permission, browser download settings, storage and safe route checks.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Android APK Pakistan | Device Install Guide",
-                          "url":  "/android-apk/",
-                          "description":  "B9 Android APK Pakistan guide for device requirements, install permission and safe access.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 APK Download FAQ Pakistan | Android and iPhone Questions",
-                          "url":  "/apk-download-faq/",
-                          "description":  "B9 APK download FAQ answering Android, iPhone, safe download and update questions for Pakistan.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 APK File Size Pakistan | Version and Storage Notes",
-                          "url":  "/apk-file-size/",
-                          "description":  "B9 APK file size page for Pakistan users with storage checks, version notes and update reminders.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 APK Latest Version Pakistan | Update Notes",
-                          "url":  "/apk-latest-version/",
-                          "description":  "Latest B9 APK version notes, Android requirements, file checking and update guidance for Pakistan.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 APK Update Pakistan | Latest Update Checklist",
-                          "url":  "/apk-update/",
-                          "description":  "B9 APK update checklist for Pakistan users with last checked date, update failed reasons and install steps.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 App Not Installing Pakistan | Android Fixes",
-                          "url":  "/app-not-installing/",
-                          "description":  "Fix B9 app not installing on Android with storage, unknown apps, browser permission and network checks.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game Android APK Install Pakistan | Latest APK Permission Fix",
-                          "url":  "/b9game-android-apk-install-pakistan/",
-                          "description":  "B9game Android APK install Pakistan guide refreshed for latest APK permission, storage, Chrome download failed, Android install blocked and H5 fallback checks.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game APK Download Slow Pakistan | Mobile Network Fix Guide",
-                          "url":  "/b9game-apk-download-slow-pakistan/",
-                          "description":  "B9game APK download slow Pakistan guide for mobile data, Wi-Fi retry, Chrome download pause, storage checks and safe H5 fallback.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game APK File Before Install Check Pakistan | Safe Download Guide",
-                          "url":  "/b9game-apk-file-before-install-check-pakistan/",
-                          "description":  "B9game APK file before install check Pakistan guide for file completion, storage, browser permission, version notes and H5 fallback.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game APK File Check Pakistan | Safe Download Verification Guide",
-                          "url":  "/b9game-apk-file-check-pakistan/",
-                          "description":  "B9game APK file check Pakistan guide covering file source, file name, browser warning, Android permission screen and safe install habits.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game APK Install Kaise Kare | Android Pakistan Help",
-                          "url":  "/b9game-apk-install-kaise-kare/",
-                          "description":  "Roman Urdu B9game APK install guide for Pakistan Android users covering unknown apps permission, storage, browser download and safe retry steps.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game APK Permission Settings Pakistan | Android Help",
-                          "url":  "/b9game-apk-permission-settings/",
-                          "description":  "Android permission settings guide for B9game APK users in Pakistan covering install permission, browser access, storage and safety.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game APK Storage Permission Pakistan | Download Fix Guide",
-                          "url":  "/b9game-apk-storage-permission-pakistan/",
-                          "description":  "B9game APK storage permission Pakistan guide for Android download checks, free space, Chrome files, install prompts and H5 fallback.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game APK Update Loop Android Pakistan | Download Fix",
-                          "url":  "/b9game-apk-update-loop-android-pakistan/",
-                          "description":  "B9game APK update loop Android Pakistan guide for old app conflict, partial file cleanup, storage checks and safe download retry.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game App Kaise Download Kare | Pakistan Guide",
-                          "url":  "/b9game-app-kaise-download-kare/",
-                          "description":  "Roman Urdu B9game app download guide for Pakistan users covering Android, H5, safe route, browser checks and Register Now CTA.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game Chrome Download Failed Pakistan | APK Browser Fix",
-                          "url":  "/b9game-chrome-download-failed-pakistan/",
-                          "description":  "B9game Chrome download failed Pakistan guide for APK download interruption, Android storage, browser permission, retry checks and H5 fallback.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game Download Pakistan Guides | App, APK and Install Help",
-                          "url":  "/b9game-download-guides/",
-                          "description":  "B9game download Pakistan hub for app download, APK install, Android permissions, browser download and safe official route checks.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game Download Pakistan | Latest Android APK and H5 Access Guide",
-                          "url":  "/b9game-download-latest-pakistan/",
-                          "description":  "B9game download Pakistan guide covering latest Android APK checks, iPhone H5 access, Chrome download issues, safe route notes and Register Now path.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game Download Not Working Pakistan | Fix Guide",
-                          "url":  "/b9game-download-not-working-pakistan/",
-                          "description":  "B9game download troubleshooting guide for Pakistan users covering browser blocks, storage, network, old cache and safe download route.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game Download Page Checklist Pakistan | Safe APK and H5 Checks",
-                          "url":  "/b9game-download-page-checklist-pakistan/",
-                          "description":  "B9game download page checklist Pakistan guide for safe APK claims, H5 fallback, Android storage, browser permission and version notes.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game H5 Download Alternative Pakistan | Browser Access Guide",
-                          "url":  "/b9game-h5-download-alternative-pakistan/",
-                          "description":  "B9game H5 download alternative Pakistan guide for users who cannot install APK, use iPhone, face Chrome blocks or prefer mobile browser access.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "Contact b9downloadpk.com | Support and Site Feedback",
-                          "url":  "/contact/",
-                          "description":  "Contact information for b9downloadpk.com with guidance for account support, site feedback and safe communication.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Game Download Pakistan | Official Access Guide",
-                          "url":  "/download/",
-                          "description":  "B9 Game download guide for Pakistan users with Android APK, iPhone web app, safe access and registration route.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Download Chrome Browser Pakistan | Android APK Permission Guide",
-                          "url":  "/download-chrome-browser/",
-                          "description":  "B9 download Chrome Browser Pakistan guide for Android permission prompts, failed downloads, storage checks and safe registration route.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Download Errors Pakistan | Failed Download and Retry Guide",
-                          "url":  "/download-errors/",
-                          "description":  "B9 download errors guide for failed download, network issue, browser blocked file and retry steps.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 App Download for Oppo Vivo Pakistan | Install Settings",
-                          "url":  "/download-for-oppo-vivo/",
-                          "description":  "B9 app download guide for Oppo and Vivo phones in Pakistan with install permission and browser checks.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 App Download for Samsung Pakistan | Android Help",
-                          "url":  "/download-for-samsung/",
-                          "description":  "B9 app download guide for Samsung Android phones in Pakistan with install settings and update help.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Download for Infinix Tecno Pakistan | Android Install Help",
-                          "url":  "/download-infinix-tecno/",
-                          "description":  "B9 download guide for Infinix and Tecno phones in Pakistan covering APK permission, storage, browser download and safe route.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Download for Redmi Xiaomi Pakistan | APK and Browser Guide",
-                          "url":  "/download-redmi-xiaomi/",
-                          "description":  "B9 download guide for Redmi and Xiaomi phones in Pakistan with browser permission, Android storage, install prompts and H5 notes.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Download Without Play Store Pakistan | Android and H5 Notes",
-                          "url":  "/download-without-play-store/",
-                          "description":  "B9 download without Play Store Pakistan guide covering Android APK route, iPhone H5 access and safe download checks.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "b9downloadpk.com FAQ | B9 Pakistan Questions",
-                          "url":  "/faq/",
-                          "description":  "B9 Pakistan FAQ hub for b9downloadpk.com with registration, app, APK, wallet, support and safety questions.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "b9downloadpk.com Guides | Complete B9 Pakistan Content Hub",
-                          "url":  "/guides/",
-                          "description":  "Complete B9 Pakistan guide index for b9downloadpk.com with account, app, APK, wallet, support and game topics.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9game Download Pakistan | Latest APK, Android and H5 Guide",
-                          "url":  "/",
-                          "description":  "B9game download Pakistan guide for latest APK checks, Android install, iOS H5 web app, safe access and official register route.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ",
-                                           "2026-06-29"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 iOS Web App Pakistan | iPhone Access Guide",
-                          "url":  "/ios-web-app/",
-                          "description":  "B9 iOS web app guide for Pakistan iPhone users with Safari shortcut and account access steps.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Official Download Route Pakistan | Safe APK and H5 Guide",
-                          "url":  "/official-download-route/",
-                          "description":  "B9 official download route Pakistan guide explaining safe APK guidance, H5 access, fake download warnings and register path.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "Privacy Policy | b9downloadpk.com",
-                          "url":  "/privacy-policy/",
-                          "description":  "Privacy policy for b9downloadpk.com explaining basic site logs, external registration links and no password collection.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "Responsible Access | b9downloadpk.com",
-                          "url":  "/responsible-access/",
-                          "description":  "Responsible 18+ access guidance for b9downloadpk.com with safety reminders, risk notes and support direction.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "sports",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Safe Download Pakistan | Official Route and Fake APK Warning",
-                          "url":  "/safe-download/",
-                          "description":  "B9 safe download guide for Pakistan with official route, fake APK warning and customer support checks.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "Terms of Use | b9downloadpk.com",
-                          "url":  "/terms/",
-                          "description":  "Terms of use for b9downloadpk.com covering informational content, 18+ access and external registration links.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Game Download Pakistan Today Check - 2026-06-29",
-                          "url":  "/today-download-check/",
-                          "description":  "Daily B9 Game download Pakistan check covering Android APK guidance, iPhone H5 access, safe route notes and install issue updates.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ",
-                                           "2026-06-29"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "B9 Unknown Apps Permission Android | Install Fix Pakistan",
-                          "url":  "/unknown-apps-permission/",
-                          "description":  "B9 unknown apps permission guide for Android users in Pakistan who cannot install the app.",
-                          "keywords":  [
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      },
-                      {
-                          "title":  "b9downloadpk.com Updates | B9 Pakistan Content Log",
-                          "url":  "/updates/",
-                          "description":  "Update log for b9downloadpk.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "APK",
-                                           "download",
-                                           "register",
-                                           "Android",
-                                           "FAQ",
-                                           "2026-06-29"
-                                       ],
-                          "lastUpdated":  "2026-06-29"
-                      }
-                  ],
-        "Count":  44
+        "title":  "About b9downloadpk.com | B9 Pakistan Guide Site",
+        "url":  "/about/",
+        "description":  "b9downloadpk.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 APK Android 14 Pakistan | Install Permission and Browser Guide",
+        "url":  "/android-14-install/",
+        "description":  "B9 APK Android 14 Pakistan guide for install permission, browser download settings, storage and safe route checks.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Android APK Pakistan | Device Install Guide",
+        "url":  "/android-apk/",
+        "description":  "B9 Android APK Pakistan guide for device requirements, install permission and safe access.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 APK Download FAQ Pakistan | Android and iPhone Questions",
+        "url":  "/apk-download-faq/",
+        "description":  "B9 APK download FAQ answering Android, iPhone, safe download and update questions for Pakistan.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 APK File Size Pakistan | Version and Storage Notes",
+        "url":  "/apk-file-size/",
+        "description":  "B9 APK file size page for Pakistan users with storage checks, version notes and update reminders.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 APK Latest Version Pakistan | Update Notes",
+        "url":  "/apk-latest-version/",
+        "description":  "Latest B9 APK version notes, Android requirements, file checking and update guidance for Pakistan.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 APK Update Pakistan | Latest Update Checklist",
+        "url":  "/apk-update/",
+        "description":  "B9 APK update checklist for Pakistan users with last checked date, update failed reasons and install steps.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 App Not Installing Pakistan | Android Fixes",
+        "url":  "/app-not-installing/",
+        "description":  "Fix B9 app not installing on Android with storage, unknown apps, browser permission and network checks.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game Android APK Install Pakistan | Latest APK Permission Fix",
+        "url":  "/b9game-android-apk-install-pakistan/",
+        "description":  "B9game Android APK install Pakistan guide refreshed for latest APK permission, storage, Chrome download failed, Android install blocked and H5 fallback checks.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game APK Download Slow Pakistan | Mobile Network Fix Guide",
+        "url":  "/b9game-apk-download-slow-pakistan/",
+        "description":  "B9game APK download slow Pakistan guide for mobile data, Wi-Fi retry, Chrome download pause, storage checks and safe H5 fallback.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game APK File Before Install Check Pakistan | Safe Download Guide",
+        "url":  "/b9game-apk-file-before-install-check-pakistan/",
+        "description":  "B9game APK file before install check Pakistan guide for file completion, storage, browser permission, version notes and H5 fallback.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game APK File Check Pakistan | Safe Download Verification Guide",
+        "url":  "/b9game-apk-file-check-pakistan/",
+        "description":  "B9game APK file check Pakistan guide covering file source, file name, browser warning, Android permission screen and safe install habits.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game APK Install Kaise Kare | Android Pakistan Help",
+        "url":  "/b9game-apk-install-kaise-kare/",
+        "description":  "Roman Urdu B9game APK install guide for Pakistan Android users covering unknown apps permission, storage, browser download and safe retry steps.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game APK Permission Settings Pakistan | Android Help",
+        "url":  "/b9game-apk-permission-settings/",
+        "description":  "Android permission settings guide for B9game APK users in Pakistan covering install permission, browser access, storage and safety.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game APK Storage Permission Pakistan | Download Fix Guide",
+        "url":  "/b9game-apk-storage-permission-pakistan/",
+        "description":  "B9game APK storage permission Pakistan guide for Android download checks, free space, Chrome files, install prompts and H5 fallback.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game APK Update Loop Android Pakistan | Download Fix",
+        "url":  "/b9game-apk-update-loop-android-pakistan/",
+        "description":  "B9game APK update loop Android Pakistan guide for old app conflict, partial file cleanup, storage checks and safe download retry.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game App Kaise Download Kare | Pakistan Guide",
+        "url":  "/b9game-app-kaise-download-kare/",
+        "description":  "Roman Urdu B9game app download guide for Pakistan users covering Android, H5, safe route, browser checks and Register Now CTA.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game Chrome Download Failed Pakistan | APK Browser Fix",
+        "url":  "/b9game-chrome-download-failed-pakistan/",
+        "description":  "B9game Chrome download failed Pakistan guide for APK download interruption, Android storage, browser permission, retry checks and H5 fallback.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game Download Pakistan Guides | App, APK and Install Help",
+        "url":  "/b9game-download-guides/",
+        "description":  "B9game download Pakistan hub for app download, APK install, Android permissions, browser download and safe official route checks.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game Download Pakistan | Latest Android APK and H5 Access Guide",
+        "url":  "/b9game-download-latest-pakistan/",
+        "description":  "B9game download Pakistan guide covering latest Android APK checks, iPhone H5 access, Chrome download issues, safe route notes and Register Now path.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game Download Not Working Pakistan | Fix Guide",
+        "url":  "/b9game-download-not-working-pakistan/",
+        "description":  "B9game download troubleshooting guide for Pakistan users covering browser blocks, storage, network, old cache and safe download route.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game Download Page Checklist Pakistan | Safe APK and H5 Checks",
+        "url":  "/b9game-download-page-checklist-pakistan/",
+        "description":  "B9game download page checklist Pakistan guide for safe APK claims, H5 fallback, Android storage, browser permission and version notes.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game H5 Download Alternative Pakistan | Browser Access Guide",
+        "url":  "/b9game-h5-download-alternative-pakistan/",
+        "description":  "B9game H5 download alternative Pakistan guide for users who cannot install APK, use iPhone, face Chrome blocks or prefer mobile browser access.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "Contact b9downloadpk.com | Support and Site Feedback",
+        "url":  "/contact/",
+        "description":  "Contact information for b9downloadpk.com with guidance for account support, site feedback and safe communication.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Game Download Pakistan | Official Access Guide",
+        "url":  "/download/",
+        "description":  "B9 Game download guide for Pakistan users with Android APK, iPhone web app, safe access and registration route.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Download Chrome Browser Pakistan | Android APK Permission Guide",
+        "url":  "/download-chrome-browser/",
+        "description":  "B9 download Chrome Browser Pakistan guide for Android permission prompts, failed downloads, storage checks and safe registration route.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Download Errors Pakistan | Failed Download and Retry Guide",
+        "url":  "/download-errors/",
+        "description":  "B9 download errors guide for failed download, network issue, browser blocked file and retry steps.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 App Download for Oppo Vivo Pakistan | Install Settings",
+        "url":  "/download-for-oppo-vivo/",
+        "description":  "B9 app download guide for Oppo and Vivo phones in Pakistan with install permission and browser checks.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 App Download for Samsung Pakistan | Android Help",
+        "url":  "/download-for-samsung/",
+        "description":  "B9 app download guide for Samsung Android phones in Pakistan with install settings and update help.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Download for Infinix Tecno Pakistan | Android Install Help",
+        "url":  "/download-infinix-tecno/",
+        "description":  "B9 download guide for Infinix and Tecno phones in Pakistan covering APK permission, storage, browser download and safe route.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Download for Redmi Xiaomi Pakistan | APK and Browser Guide",
+        "url":  "/download-redmi-xiaomi/",
+        "description":  "B9 download guide for Redmi and Xiaomi phones in Pakistan with browser permission, Android storage, install prompts and H5 notes.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Download Without Play Store Pakistan | Android and H5 Notes",
+        "url":  "/download-without-play-store/",
+        "description":  "B9 download without Play Store Pakistan guide covering Android APK route, iPhone H5 access and safe download checks.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "b9downloadpk.com FAQ | B9 Pakistan Questions",
+        "url":  "/faq/",
+        "description":  "B9 Pakistan FAQ hub for b9downloadpk.com with registration, app, APK, wallet, support and safety questions.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "b9downloadpk.com Guides | Complete B9 Pakistan Content Hub",
+        "url":  "/guides/",
+        "description":  "Complete B9 Pakistan guide index for b9downloadpk.com with account, app, APK, wallet, support and game topics.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9game Download Pakistan | Latest APK, Android and H5 Guide",
+        "url":  "/",
+        "description":  "B9game download Pakistan guide for latest APK checks, Android install, iOS H5 web app, safe access and official register route.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ",
+                         "2026-06-30"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 iOS Web App Pakistan | iPhone Access Guide",
+        "url":  "/ios-web-app/",
+        "description":  "B9 iOS web app guide for Pakistan iPhone users with Safari shortcut and account access steps.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Official Download Route Pakistan | Safe APK and H5 Guide",
+        "url":  "/official-download-route/",
+        "description":  "B9 official download route Pakistan guide explaining safe APK guidance, H5 access, fake download warnings and register path.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
     },
     {
         "title":  "Privacy | b9downloadpk.com",
         "url":  "/privacy/",
-        "description":  "Privacy page for b9downloadpk.com explaining site logs, registration links and no password collection.",
-        "category":  "policy"
+        "description":  "Privacy policy for b9downloadpk.com explaining basic site logs, external registration links and no password collection.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "Privacy Policy | b9downloadpk.com",
+        "url":  "/privacy-policy/",
+        "description":  "Privacy policy for b9downloadpk.com explaining basic site logs, external registration links and no password collection.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "Responsible Access | b9downloadpk.com",
+        "url":  "/responsible-access/",
+        "description":  "Responsible 18+ access guidance for b9downloadpk.com with safety reminders, risk notes and support direction.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "sports",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Safe Download Pakistan | Official Route and Fake APK Warning",
+        "url":  "/safe-download/",
+        "description":  "B9 safe download guide for Pakistan with official route, fake APK warning and customer support checks.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "Terms of Use | b9downloadpk.com",
+        "url":  "/terms/",
+        "description":  "Terms of use for b9downloadpk.com covering informational content, 18+ access and external registration links.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Game Download Pakistan Today Check - 2026-06-30",
+        "url":  "/today-download-check/",
+        "description":  "Daily B9 Game download Pakistan check covering Android APK guidance, iPhone H5 access, safe route notes and install issue updates.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ",
+                         "2026-06-30"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "B9 Unknown Apps Permission Android | Install Fix Pakistan",
+        "url":  "/unknown-apps-permission/",
+        "description":  "B9 unknown apps permission guide for Android users in Pakistan who cannot install the app.",
+        "keywords":  [
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ"
+                     ],
+        "lastUpdated":  "2026-06-30"
+    },
+    {
+        "title":  "b9downloadpk.com Updates | B9 Pakistan Content Log",
+        "url":  "/updates/",
+        "description":  "Update log for b9downloadpk.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
+        "keywords":  [
+                         "B9game",
+                         "B9Game",
+                         "b9",
+                         "Pakistan",
+                         "APK",
+                         "download",
+                         "register",
+                         "Android",
+                         "FAQ",
+                         "2026-06-30"
+                     ],
+        "lastUpdated":  "2026-06-30"
     }
 ]
-
