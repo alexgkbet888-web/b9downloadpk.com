@@ -1,16 +1,21 @@
-# b9downloadpk.com
+# B9game Download Pakistan Guide
 
-This site provides B9 Pakistan informational guides for adult users only.
+> Pakistan Android APK, installation, version-check and H5 fallback guides for adult users.
 
-Important URLs:
-- https://b9downloadpk.com/
-- https://b9downloadpk.com/sitemap.xml
-- https://b9downloadpk.com/feed.xml
-- https://b9downloadpk.com/responsible-access/
-- https://b9downloadpk.com/privacy-policy/
+## Core Guides
 
-Content rules:
-- Pakistan market only.
-- No private account data is collected.
-- Register Now links point to the provided B9 registration route.
-- Account support should use verified support shown inside the B9 product.
+- [Download guide home](https://b9downloadpk.com/): Current APK, Android and H5 guide hub.
+- [Download route](https://b9downloadpk.com/download/): Focused download and official-route checks.
+- [Latest APK notes](https://b9downloadpk.com/apk-latest-version/): Version, file and update verification notes.
+- [Install help](https://b9downloadpk.com/app-not-installing/): Android installation troubleshooting.
+
+## Discovery
+
+- [XML sitemap](https://b9downloadpk.com/sitemap.xml): Complete canonical URL inventory.
+- [RSS feed](https://b9downloadpk.com/feed.xml): Recently updated content.
+
+## Usage Notes
+
+- Content is informational and intended for adult Pakistan users.
+- No private account data is collected by this guide site.
+- Registration links use the configured B9 product route; support identity should be verified inside the product.
