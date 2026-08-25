@@ -1016,7 +1016,7 @@ input {
     min-width: 0;
   }
 
-  .brand span {
+  .brand > span:not(.brand-logo-wrap) {
     display: none;
   }
 
